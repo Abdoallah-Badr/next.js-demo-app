@@ -1,0 +1,23 @@
+.post {
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+.post:hover {
+  opacity: 95%;
+}
+
+.post-title {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 95%;
+  color: #333;
+  padding-bottom: 15px;
+  border-bottom: #420043 1px solid;
+}
+
+.post-body {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #555;
+}

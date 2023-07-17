@@ -1,0 +1,20 @@
+.navbar {
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #0128a8;
+  border-bottom: solid white 3px;
+  color: white;
+}
+.navbar h1 {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.links {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
