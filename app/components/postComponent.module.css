@@ -21,3 +21,7 @@
   margin-top: 10px;
   color: #555;
 }
+
+.post h3 {
+  font-weight: 600;
+}

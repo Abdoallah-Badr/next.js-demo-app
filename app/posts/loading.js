@@ -1,7 +1,7 @@
 const Loading = () => {
   return (
-    <div className="preview">
-      <p style={{ display: "block" }}>Loading... 👌🏽</p>;
+    <div className="preview" >
+      <p style={{ display: "block" }}>Loading... 👌🏽</p>
     </div>
   );
 };

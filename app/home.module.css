@@ -5,3 +5,6 @@
   padding: 15px 25px;
   border-radius: 7px;
 }
+.postsLink:hover {
+  opacity: 85%;
+}
