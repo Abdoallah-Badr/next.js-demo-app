@@ -1,0 +1,16 @@
+.postDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 5% 10%;
+  background-color: #f9f9f9;
+  margin: 7% 10%;
+}
+.postDetails h2 {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 600;
+}
